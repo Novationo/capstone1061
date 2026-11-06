@@ -1,4 +1,4 @@
-# Program Design Conecpt
+# Program Design Conecpt from Module 1 Discussion
 
 I think a fancy task list with sorting and organization would be fun for this assignment, I think it would also be interesting to see if i can implement an eisenhower matrix of sorts into a terminal program. I will have 4 different categories for different tasks (for splitting it up between all my classes and life) and have a visual way to display the importance of each one (with the matrix). 
 
@@ -8,7 +8,7 @@ I think if anyone is as scatterbrained as me and hasn't found a organizational s
 
 I think the biggest challenge is just going to be finding what C++ technology I can use for this to be as optimized as possible, not even optimized but just to even work. 
 
-# Project Requirements
+# Project Requirements from D2L
 Your project will be a console-based application written in C++ that demonstrates concepts covered in this course. You want to choose something that is not trivial, while also not being overly ambitious. With that said, types of programs suitable for a capstone project in this course include (but are not limited to):
 
 - A rudimentary information system that maintains items such as recipes, books, shop inventories, media titles, fantasy sports teams, employee information, student records, etc.
